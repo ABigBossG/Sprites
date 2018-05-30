@@ -1,1 +1,3 @@
 # Sprites
+
+Sprites for game. 
